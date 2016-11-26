@@ -1,2 +1,6 @@
 # doubleratchet
-A golang implementation of the double ratchet encryption algorithm.
+
+This is an implementation to learn the mechanisms and design of the 
+[double ratchet][spec] algorithm.
+
+[spec]: https://whispersystems.org/docs/specifications/doubleratchet/
